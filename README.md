@@ -19,7 +19,7 @@ A small attempt to make an Food delivery app user interface in Flutter for Andro
 <img src="screens/login_screen.jpg" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="screens/signin_scren.jpg" height="500em" />
 
 ## ✨ Requirements
-* Any Operating System (ie. MacOS X, Linux, Windows)
+* Operating System (ie. MacOS X , Windows)
 * Any IDE with Flutter SDK installed (ie.  Android Studio, VSCode, IntelliJ, etc)
 * A  knowledge of Dart and Flutter
 * ----MADE BY REEJAL CHOUDHARY----
