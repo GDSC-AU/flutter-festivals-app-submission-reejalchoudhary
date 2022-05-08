@@ -23,3 +23,11 @@ A small attempt to make an Food delivery app user interface in Flutter for Andro
 * Any IDE with Flutter SDK installed (ie.  Android Studio, VSCode, IntelliJ, etc)
 * A  knowledge of Dart and Flutter
 * ----MADE BY REEJAL CHOUDHARY----
+
+# FOLLOW ME ON😎:-
+#### INSTAGRAM:- www.instagram.com/being._.unique/
+#### TWITTER:- https://twitter.com/ChoudharyReejal
+#### LINKEDIN:- www.linkedin.com/in/reejal-choudhary-532386237
+# CONTACT ME📱:-
+#### GMAIL:- reejalree@gmail.com
+#### MOBILE:- +917018361108
