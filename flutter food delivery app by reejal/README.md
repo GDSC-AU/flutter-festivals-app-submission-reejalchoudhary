@@ -7,7 +7,7 @@ A small attempt to make an Food delivery app user interface in Flutter for Andro
 **reejal choudhary** **twitter=https://twitter.com/ChoudharyReejal**
 
 ## ORDER DELICIOUS FOOD 
-<img src="screens/full_ui.png"  />
+<img src="screens/full_ui.PNG"  />
 
 ## ScreenShots
 ### Home Page
